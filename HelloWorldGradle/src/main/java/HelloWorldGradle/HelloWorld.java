@@ -6,5 +6,6 @@ package HelloWorldGradle;
 public class HelloWorld {
   public static void main(String[] args) {
 	System.out.println("hello gradle...");
+	System.out.println("hi");
 }
 }
